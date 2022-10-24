@@ -83,6 +83,9 @@ nav {
     font-size: 12px;
     margin: 0;
 }
+.section-description {
+    margin-bottom: 20px;
+}
 .section-description_icon-box {
     text-align: center;
     margin-bottom: 20px;
@@ -111,4 +114,28 @@ nav {
     font-size: 18px;
     text-align: center;
     width: 1000px;
+}
+.section-map {
+    margin-bottom: 20px;
+}
+.section-map_title {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 36px;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.line {
+    border-top: 1px solid #999999;
+    width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+footer {
+    height: 80px;
 }
